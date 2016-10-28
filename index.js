@@ -1,0 +1,4 @@
+//entrypoint
+document.addEventListener('DOMContentLoaded', () => {
+
+});
